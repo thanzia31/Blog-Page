@@ -51,6 +51,13 @@
             <li>Content, Image moderation : If they are not appropriate</li>
             <li>Suspicious user accounts are removed</li>
         </ul>
+    <h2>Machine Learning</h2>
+    <ul>We have used a machine learning model for
+        <li>Content moderation</li>
+        <li>Image moderation</li>
+        in case they are inappropriate.
+    </ul>
+
     <h2>Built with</h2>
         <ul>
             <li>Intelone API</li>
