@@ -1,0 +1,1 @@
+This file contains the code on the website using django framework
